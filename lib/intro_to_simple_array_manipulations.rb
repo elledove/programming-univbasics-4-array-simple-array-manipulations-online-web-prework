@@ -43,7 +43,7 @@ end
   end
   
   def using_delete_at(array , interger)
-    array.delete(1, interger)
+    array.delete(interger)
   end
   
     
